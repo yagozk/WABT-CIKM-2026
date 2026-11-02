@@ -1,3 +1,7 @@
+This study is set to be presented at CIKM 2026 conference:
+
+Yagiz Ozkarahan and Fazli Can. 2026. Weight-Adjusting Binary Transformation: A Dynamic Label Ranking Model for Multi-Label Data Stream Classification. In Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM ’26), November 07–11, 2026, Rome, Italy. ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3799682.3839926
+
 # Weight-Adjusting Binary Transformation (WABT)
 
 We provide our WABT model, and necessary utilities in this repository, also with Docker containerization. 
